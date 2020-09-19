@@ -1,3 +1,3 @@
-This project aims to predict accident severity. 
-It is targeted at drivers who may whish to know the liklihood of an accident's severity based on road condition attributes when making travel plans.
-It is meant to help drivers solve a lack of knowledge problem surrounding road safety. 
+This project aims to predict accident severity. It is targeted at drivers who may wish to know the likelihood of an accident’s severity based on road condition attributes when making travel plans. It is meant to help drivers solve a lack of knowledge problem surrounding road safety. 
+With access to this information they can plan the safest route of travel that takes into consideration the likelihood of accident severity based on weather, road conditions, and light conditions. 
+
