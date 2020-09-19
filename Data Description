@@ -1,4 +1,6 @@
-I will be using the shared data in part one of this capstone project to predict accident severity. 
-The data has 37 attributes that help to predict the severity of an accident based on raod conditions/factors. 
-It is supervised data meaning that the machine learning output will learn based on inputs with known outputs. 
-The data on car collisions includes attributes such as vehical count, location of the accident, severity desc, person count, collision type, pedestrian count, incident date, junction type, weather, road conditions, light condition, and speeding.
+I will be using the shared data in part one of this capstone project to predict accident severity. It is supervised data meaning that the machine learning output will learn based on inputs with known outputs. 
+
+The target variable is “Severity Code” which measures the severity of an accident from 0 to 5 within the dataset. 
+
+Attributes used to calculate the severity of an accident are weather, road conditions, and light conditions. 
+
